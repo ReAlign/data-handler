@@ -1,0 +1,24 @@
+{
+  "name": "data-handler",
+  "version": "0.0.1",
+  "description": "a handler before using the data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/data-handler.git"
+  },
+  "keywords": [
+    "data",
+    "handler",
+    "before-using"
+  ],
+  "author": "ReAlign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReAlign/data-handler/issues"
+  },
+  "homepage": "https://github.com/ReAlign/data-handler#readme"
+}
